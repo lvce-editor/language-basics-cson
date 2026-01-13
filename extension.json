@@ -5,9 +5,12 @@
   "languages": [
     {
       "id": "cson",
-      "extensions": [".cson"],
+      "extensions": [
+        ".cson"
+      ],
       "tokenize": "src/tokenizeCson.js",
       "configuration": "languageConfiguration.json"
     }
-  ]
+  ],
+  "repository": "https://github.com/lvce-editor/language-basics-cson"
 }
